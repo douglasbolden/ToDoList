@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dougl\\ToDoList\\ToDoList.csproj": {}
+    "c:\\Users\\dougl\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dougl\\ToDoList\\ToDoList.csproj": {
+    "c:\\Users\\dougl\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dougl\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "c:\\Users\\dougl\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\dougl\\ToDoList\\ToDoList.csproj",
+        "projectPath": "c:\\Users\\dougl\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dougl\\ToDoList\\obj\\",
+        "outputPath": "c:\\Users\\dougl\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
